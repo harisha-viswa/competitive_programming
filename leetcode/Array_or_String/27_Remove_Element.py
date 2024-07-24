@@ -1,5 +1,5 @@
 '''
-Type : medium
+Type :medium
 
 Problem statement:
 
